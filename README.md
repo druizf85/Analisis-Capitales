@@ -37,5 +37,7 @@ Por otra parte, se desea incorporar diferentes gráficos que puedan mostrar:
 
 Finalmente, identificar el detalle de los contratos que se filtren en power bi.
 
+Se desea conocer la ciudad, la entidad, numero de contrato, objeto contractual, proveedor, identificador si es pyme el proveedor, valor total del contrato.
+
 ![image](https://github.com/druizf85/An-lisis-Capitales/assets/121362745/2c00e36f-a2f3-427c-ae2c-553da8f0ca4b)
 
