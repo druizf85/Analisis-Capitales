@@ -1,4 +1,4 @@
-# Análisis-Capitales
+# Análisis Capitales
 
 Este proyecto consiste en hacer una revisión de la contratación estatal para las principales ciudades en Colombia la vigencia 2024 en tiempo real, es decir, que se actualice diariamente. Para el presente análisis se tomó ocmo principal fuente de información el conjunto de contratos en SECOP II del portal de los datos abiertos del SECOP. Se desarrollaron diferentes procesos de extracción, transformación y carga de lso datos mediante el lenguaje de programación Python y sus diferentes librerías para manipulación de datos. Por otro lado, se desea visualizar esta información mediante un tablero de control o Dashboard en Power Bi.
 
