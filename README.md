@@ -25,7 +25,7 @@ Se realizó el siguiente procedimiento en el documento llamado Proyecto Contrata
 
 Una vez que se han recopilado y procesado los datos, se procedió a diseñar y configurar el tablero de control:
 
-Se desea mostrar un mapa en el cual se pueda ver la dimensión del valor de los contratos celebraos en el 2024 por ciudad. Además de hacer un resumen de cada uno de estos valores y su participación con respecto al valor total.
+Se desea mostrar un mapa en el cual se pueda ver la dimensión del valor de los contratos celebrados en el 2024 por ciudad. Además de hacer un resumen de cada uno de estos valores y su participación con respecto al valor total.
 
 ![image](https://github.com/druizf85/An-lisis-Capitales/assets/121362745/ecf8d3c0-fbd8-4fd2-9d64-359480185667)
 
